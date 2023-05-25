@@ -1,6 +1,7 @@
 # <img src= "https://github.com/Ryeohwan/TRL/assets/73810834/79367754-6ed4-4510-9da4-c658efef4e8b"  width="20" height="20"/> LuckQuiz
 
 ## 기술 스택
+🏆 싸피 8기 2학기 자율 우수 프로젝트 수상 🏆
 
 ### Frontend
 
